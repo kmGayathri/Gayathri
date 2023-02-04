@@ -10,5 +10,5 @@
 ### Teck Stack
 
 ``` sh
-Git GitHub Linux AWS Docker Kubernetes Rancher Jenkins Ansible Terraform Prom Grafana Python MD MySQL VS Post Jira
+Git GitHub Linux AWS Docker Kubernetes Rancher Jenkins Ansible Terraform 
 ```
